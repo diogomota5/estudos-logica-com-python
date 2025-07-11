@@ -2,5 +2,8 @@
 string = input("Digite uma string: ")
 lista = input("Digite várias strings separadas por vírgula: ").split(',')
 
+# Exibindo os valores armazenados
 print("String:", string)
 print("Lista:", lista)
+
+
